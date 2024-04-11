@@ -2,9 +2,10 @@
 Kaggle competition
 
 # Used
--sklearn
--catboost
+- sklearn
+- catboost
 
 # Used method
--RandomForestClassifier
--CatBoostClassifier
+- RandomForestClassifier
+- CatBoostClassifier
+- GridSearchCV
